@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&display=swap');
+* {
+margin: 0;
+padding: 0;
+outline: 0;
+}
+.rectangle {
+  position: absolute;
+width: 403px;
+height: 80px;
+left: 1178px;
+top: 767px;
+
+background: #3C612A;
+border-radius: 8px;
+}
+.tel {
+  position: absolute;
+width: 403px;
+height: 33px;
+left: 1178px;
+top: 790px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 33px;
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.portalscreen {
+  position: absolute;
+width: 908.23px;
+height: 500px;
+left: 926px;
+top: 232px;
+}
+.rectangle2 {
+  position: absolute;
+width: 908px;
+height: 114px;
+left: 926px;
+top: 90px;
+
+background: #F1F1F1;
+border-radius: 8px;
+}
+.chocolebest {
+  position: absolute;
+width: 298.51px;
+height: 100px;
+left: 1231px;
+top: 90px;
+}
+.rectangle3 {
+  
+position: absolute;
+width: 696px;
+height: 836px;
+left: 78px;
+top: 122px;
+
+background: #F1F1F1;
+border-radius: 8px;
+}
+.valve {
+  position: absolute;
+width: 236px;
+height: 64px;
+left: 466px;
+top: 845px;
+}
+.mojang {
+  position: absolute;
+width: 277px;
+height: 63px;
+left: 103px;
+top: 845px;
+
+}
+.credit {
+  position: absolute;
+width: 696px;
+height: 23px;
+left: 78px;
+top: 790px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+.portalgun {
+  position: absolute;
+width: 107px;
+height: 175px;
+left: 125px;
+top: 189px;
+}
+.def {
+  position: absolute;
+width: 374px;
+height: 313px;
+left: 252px;
+top: 212px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
