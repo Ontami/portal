@@ -4,120 +4,169 @@ margin: 0;
 padding: 0;
 outline: 0;
 }
-.rectangle {
-  position: absolute;
-width: 403px;
-height: 80px;
-left: 1178px;
-top: 767px;
-
-background: #3C612A;
-border-radius: 8px;
+.background {
+    position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 0px;
 }
-.tel {
-  position: absolute;
-width: 403px;
-height: 33px;
-left: 1178px;
-top: 790px;
+.portaltitle {
+    cursor: default;
+width: 274px;
+height: 157px;
+margin-left: 155px;
+margin-top: 326px;
 
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 33px;
-
+font-weight: 400;
+font-size: 96px;
+line-height: 157px;
 text-align: center;
 
 color: #FFFFFF;
 
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(4px);
 }
-.portalscreen {
-  position: absolute;
-width: 908.23px;
-height: 500px;
-left: 926px;
-top: 232px;
-}
-.rectangle2 {
-  position: absolute;
-width: 908px;
-height: 114px;
-left: 926px;
-top: 90px;
+.Mctitle {
+    cursor: default;
+    position: absolute;
+width: 157px;
+height: 157px;
+left: 390px;
+top: 399px;
 
-background: #F1F1F1;
-border-radius: 8px;
-}
-.chocolebest {
-  position: absolute;
-width: 298.51px;
-height: 100px;
-left: 1231px;
-top: 90px;
-}
-.rectangle3 {
-  
-position: absolute;
-width: 696px;
-height: 836px;
-left: 78px;
-top: 122px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 157px;
+text-align: center;
 
-background: #F1F1F1;
-border-radius: 8px;
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: blur(4px);
 }
-.valve {
-  position: absolute;
+.newmap {
+    cursor: default;
+    position: absolute;
 width: 236px;
-height: 64px;
-left: 466px;
-top: 845px;
-}
-.mojang {
-  position: absolute;
-width: 277px;
-height: 63px;
-left: 103px;
-top: 845px;
+height: 48px;
+left: 174px;
+top: 532px;
 
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+.newmap:hover {
+    cursor: default;
+    position: absolute;
+width: 236px;
+height: 48px;
+left: 174px;
+top: 532px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 39px;
+
+color: #a0a0a0;
+
+}
+.bonusmap {
+    cursor: default;
+    position: absolute;
+width: 236px;
+height: 48px;
+left: 174px;
+top: 580px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+.bonusmap:hover {
+    cursor: default;
+    position: absolute;
+width: 236px;
+height: 48px;
+left: 174px;
+top: 580px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 39px;
+
+color: #a0a0a0;
 }
 .credit {
-  position: absolute;
-width: 696px;
-height: 23px;
-left: 78px;
-top: 790px;
+    cursor: default;
+    position: absolute;
+width: 236px;
+height: 48px;
+left: 174px;
+top: 628px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 20px;
-line-height: 33px;
-text-align: center;
+font-size: 24px;
+line-height: 39px;
 
-color: #000000;
+color: #FFFFFF;
+
 }
-.portalgun {
-  position: absolute;
-width: 107px;
-height: 175px;
-left: 125px;
-top: 189px;
-}
-.def {
-  position: absolute;
-width: 374px;
-height: 313px;
-left: 252px;
-top: 212px;
+.credit:hover {
+    cursor: default;
+    position: absolute;
+width: 236px;
+height: 48px;
+left: 174px;
+top: 628px;
 
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 600;
-font-size: 20px;
-line-height: 33px;
-text-align: center;
+font-size: 24px;
+line-height: 39px;
 
-color: #000000;
+color: #a0a0a0;
+
+}
+.info {
+    cursor: default;
+    position: absolute;
+width: 236px;
+height: 48px;
+left: 174px;
+top: 676px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+}
+.info:hover {
+    color: #a0a0a0;
 }
